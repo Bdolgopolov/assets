@@ -1,0 +1,8 @@
+{
+  "name": "USD Token",
+  "symbol": "USD",
+  "decimals": 18,
+  "address": "0xFDF1F1B672d35d67Fb349924721055a4116b34f0",
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xFDF1F1B672d35d67Fb349924721055a4116b34f0/logo.png"
+}
